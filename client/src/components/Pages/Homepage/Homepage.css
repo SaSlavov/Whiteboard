@@ -1,0 +1,15 @@
+.Homepage {
+    color:wheat;
+}
+
+.welcome-msg {
+    display: inline;
+    position: absolute;
+    left: 18%;
+    top: 12%;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+}
+
+

@@ -1,0 +1,30 @@
+.all-boards {
+    color: wheat;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    border: 3px solid rgba(0, 0, 0, 0.562);
+    border-radius: 5px;
+    color: rgb(114, 60, 10);
+    width: fit-content;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px 5px rgba(167, 139, 87, 0.3);
+}
+
+.every-board {
+    border: 3px solid rgba(0, 0, 0, 0.589);
+    margin: 4px;
+    padding: 3px;
+    background-color: rgb(184, 163, 137, 0.7);
+    box-shadow: 5px 5px 5px 5px  rgba(167, 139, 87, 0.3);
+    border-radius: 5px;
+    margin: 4px;
+    min-width: 200px;
+    cursor: pointer;
+}
+
+.options-button {
+    top: 0;
+    padding-top: 9px;
+    margin: 4px;
+    cursor: pointer;
+}

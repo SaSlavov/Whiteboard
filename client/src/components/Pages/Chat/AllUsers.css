@@ -1,0 +1,21 @@
+.users-online {
+    position: absolute;
+    top: 3%;
+    right: 0;
+    width: 120px;
+    max-height: 400px;
+    overflow: auto;
+    background-color: #f0f2f5;
+    color: black;
+    cursor: auto;
+    border-radius: 4px;
+}
+
+.user-container {
+    cursor: default;
+    margin-bottom: 10px;
+}
+
+.user-container:hover {
+    background-color: #e3e4e6;
+}

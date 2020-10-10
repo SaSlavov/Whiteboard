@@ -1,0 +1,66 @@
+.board-options {
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgba(25, 17, 28, 0.7);
+    border-radius: 3px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+.board-options h2 {
+    color: wheat;
+    margin-top: 0;
+}
+
+.options-header {
+    margin-top: 7px;
+}
+
+.delete-board-btn {
+    cursor: pointer;
+    margin: 7px;
+    fill: wheat;
+}
+
+.close-options-btn {
+    cursor: pointer;
+    margin: 7px;
+    fill: wheat;
+}
+
+.info-sign {
+    color: rgb(245, 204, 129);
+}
+
+.getUsers-btn {
+    display: block;
+    background-color: wheat;
+    margin: 0 auto;
+    font-size: 19px;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.getUsers-btn:hover {
+    background-color: rgb(243, 210, 148);
+}
+
+.users-to-share {
+    padding: 8px;
+    display: inline-block;
+    color: wheat;
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: 80px 20px;
+    margin: 0 auto;
+    width: 100px;
+    text-align: left;
+}
+
+.options-btn {
+    width: 140px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 6px;
+}

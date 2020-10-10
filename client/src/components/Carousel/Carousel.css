@@ -1,0 +1,23 @@
+.box {
+    position: relative;
+    background-color: #e0cbb99d;
+    height: 400px;
+    width: 300px;
+}
+
+.center {
+    height: 400px;
+    width: 400px;
+    margin-top: 8%;
+    margin-left: 21%;
+    border-radius: 6px;
+    box-shadow: 0 0 16px 10px #e0cbb9bb
+}
+
+.carousel-text {
+    margin-top: 30px;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+}

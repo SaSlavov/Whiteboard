@@ -1,0 +1,72 @@
+.LoginForm {
+    border-radius: 3px;
+    height: 400px;
+    width: 400px;
+    margin-top: 8%;
+    margin-left: 21%;
+    color: white;
+    padding-top: 20px;
+    background-color: #e0cbb99d;
+    box-shadow: 0 0 16px 10px #e0cbb9bb;
+    font-family: 'Roboto Mono', monospace;
+    /* color: wheat; */
+    /* background-color: honeydew; */
+    /* width: 400px;
+    margin: 0 auto;
+    margin-top: 200px; */
+    /* background-color: rgba(25, 17, 28, 0.7); */
+}
+
+
+.header {
+    text-align: center;
+    font-size: 33px;
+
+}
+
+.input-username-label {
+    width: 160px;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+
+}
+
+.input-username {
+    outline: none;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.input-password-label {
+    width: 160px;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.input-password {
+    outline: none;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.login-button {
+    margin-left: 171px;
+    margin-bottom: 20px;
+    background-color: wheat;
+    border-radius: 3px;
+}
+
+.touched {
+    border-radius: 10px;
+}
+
+.invalid {
+    border: 2px solid red;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
